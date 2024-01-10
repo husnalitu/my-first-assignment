@@ -1,0 +1,24 @@
+/* header img */
+.header{
+    display: container;
+    background-image:url(../resources/Banner\ Image.png) ;
+    background-repeat: no-repeat;
+}
+/* banner style */
+.banner{
+    display: inline-block;
+
+}
+.title{
+    font-family: 'Merriweather', serif;
+   font-weight: 900;
+   text-align: center;
+   justify-content: center;
+   color:#ffff;
+}
+.offers{
+    position: absolute;
+    width: max-content;
+    background-image: url(../resources/New\ Year\ Photo.png);
+    background-repeat: no-repeat;
+}
